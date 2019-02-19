@@ -1,0 +1,62 @@
+*{
+margin: 0;	
+}
+body{
+	background:url(../img/admin2.jpeg); 
+    background-size: cover;
+ font-family: 'Lobster', cursive;
+}
+.container{
+	    width: 461px;
+    margin: 10% auto;}
+.login-section{
+background-color: goldenrod;
+    background: rgba(97, 43, 43, 0.3);
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+}
+.login-section img{
+      height: 120px;
+    width: 128px;
+    margin: 0 auto;
+    display: block
+}
+.login-section h2{
+    color: white;
+    margin: 10px 0px;
+}
+.form-control{
+	     width: 98%;
+    height: 30px;
+    padding: 0px 10px;
+    margin-bottom: 8px;
+}
+.btn{
+	    padding: 4px 36px;
+	    background-color: gray;
+	    text-transform: uppercase;
+	    color: aliceblue;
+	    transition: 0.8s ease;
+        border: none;
+        outline: none;
+}
+
+input.btn:hover {
+
+    background: black;
+    color: aqua
+}    
+
+img{
+
+     width: 100px;  
+
+}
+a{
+
+     color: black;
+     margin: 12px auto;
+     font-size:14px;
+ 
+}
